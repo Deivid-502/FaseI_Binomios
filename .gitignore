@@ -1,0 +1,11 @@
+# Archivos de IDE
+.idea/
+*.iml
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Composer
+vendor/
+composer.lock
